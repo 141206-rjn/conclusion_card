@@ -1,0 +1,46 @@
+
+
+.report{
+    width: 90%;
+    max-width: 470px;
+    margin: 100px auto 0;
+    padding: 40px 35px;
+    text-align: center;
+     background: linear-gradient(to left top, #FFD700, #FFC0CB);
+    height: 550px;
+    border-radius: 15px;
+}
+
+.heading { 
+   margin-left: 28%; 
+  display: flex;
+img{
+    margin-top: 20px;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+   
+}
+.name{
+    display: block;
+    font-size: 3vh;
+}
+.surname {  
+    font-size: 1vh;
+}
+}
+
+
+#link {
+    color: rgb(255, 255, 255);
+    background: linear-gradient(to left, #FFD700, #FFC0CB);
+    text-decoration: none; 
+}
+#contact {
+    background: linear-gradient(to left, #FFD700, #FFC0CB);
+}
+
+
+
+
+
